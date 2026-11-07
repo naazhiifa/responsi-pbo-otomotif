@@ -4,8 +4,8 @@
 | | |
 |---|---|
 | Nama | Fildza Nazhifa |
-| NIM | (isi NIM lengkap, berakhiran 8) |
-| Tema (digit terakhir NIM 8) | **Otomotif** |
+| NIM | (H1D025148) |
+| Tema | **Otomotif** |
 | Mata kuliah | Praktikum Pemrograman Berorientasi Objek |
 | Jurusan | Informatika, Fakultas Teknik, Universitas Jenderal Soedirman |
 
@@ -48,4 +48,8 @@ java Main
 ```
 
 ## Screenshot Luaran Program
-![Output program](screenshots/output.png)
+[Output program]
+<img width="468" height="842" alt="Screen Shot 2026-11-08 at 01 07 04" src="https://github.com/user-attachments/assets/4875a56f-8b65-42a2-b76a-7a884a4276bf" />
+
+
+
